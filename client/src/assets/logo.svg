@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="48" viewBox="0 0 200 48">
+  <!-- Eye Icon -->
+  <g>
+    <path d="M4,24 Q24,-4 44,24 Q24,52 4,24z" fill="#5044E5"></path>
+    <circle cx="24" cy="24" r="10" fill="#ecf0f1"></circle>
+    <circle cx="24" cy="24" r="5" fill="#5044E5"></circle>
+  </g>
+
+  <!-- Bold, Black Text (No Space) -->
+  <text x="50" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#000000">
+    InSightBlog
+  </text>
+</svg>
